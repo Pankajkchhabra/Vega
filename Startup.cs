@@ -29,7 +29,8 @@ namespace vega
         public void ConfigureServices(IServiceCollection services)
         {
             // services.AddDbContext<VegaDbContext>(Options => Options.UseSqlServer(Configuration.GetConnectionString("Default")));
-            services.AddDbContext<VegaDbContext>(Options => Options.UseSqlServer("Data Source=PK6539\\SQL2014; Initial Catalog=vega; Integrated Security=SSPI;"));
+            services.AddDbContext<VegaDbContext>(Options => Options.UseSqlServer("Data Source=localhost; Initial Catalog=vega; Integrated Security=SSPI;"));
+            // services.AddDbContext<VegaDbContext>(Options => Options.UseSqlServer("Data Source=PK6539\\SQL2014; Initial Catalog=vega; Integrated Security=SSPI;"));
             // services.AddDbContext<VegaDbContext>(Options => Options.UseSqlServer(Configuration.GetConnectionString("Data Source=PK6539\\SQL2014; Initial Catalog=vega; Integrated Security=SSPI;"));
             // "Data Source=PK6539\\SQL2014; Initial Catalog=vega; Integrated Security=SSPI;"
             services.AddMvc();

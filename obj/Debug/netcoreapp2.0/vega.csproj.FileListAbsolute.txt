@@ -8,3 +8,7 @@ C:\Test_Misc\ASPNET_AngJS\Angular\angular2\vega\obj\Debug\netcoreapp2.0\vega.Ass
 C:\Test_Misc\ASPNET_AngJS\Angular\angular2\vega\obj\Debug\netcoreapp2.0\vega.AssemblyInfo.cs
 C:\Test_Misc\ASPNET_AngJS\Angular\angular2\vega\obj\Debug\netcoreapp2.0\vega.dll
 C:\Test_Misc\ASPNET_AngJS\Angular\angular2\vega\obj\Debug\netcoreapp2.0\vega.pdb
+C:\Angular\Angular2\Vega\obj\Debug\netcoreapp2.0\vega.csprojAssemblyReference.cache
+C:\Angular\Angular2\Vega\obj\Debug\netcoreapp2.0\vega.csproj.CoreCompileInputs.cache
+C:\Angular\Angular2\Vega\obj\Debug\netcoreapp2.0\vega.AssemblyInfoInputs.cache
+C:\Angular\Angular2\Vega\obj\Debug\netcoreapp2.0\vega.AssemblyInfo.cs

@@ -12547,23 +12547,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pkumar\\.nuget\\packages\\": {},
+    "C:\\Users\\Pankaj\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Test_Misc\\ASPNET_AngJS\\Angular\\angular2\\vega\\vega.csproj",
+      "projectUniqueName": "c:\\Angular\\Angular2\\Vega\\vega.csproj",
       "projectName": "vega",
-      "projectPath": "C:\\Test_Misc\\ASPNET_AngJS\\Angular\\angular2\\vega\\vega.csproj",
-      "packagesPath": "C:\\Users\\pkumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Test_Misc\\ASPNET_AngJS\\Angular\\angular2\\vega\\obj\\",
+      "projectPath": "c:\\Angular\\Angular2\\Vega\\vega.csproj",
+      "packagesPath": "C:\\Users\\Pankaj\\.nuget\\packages\\",
+      "outputPath": "c:\\Angular\\Angular2\\Vega\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\pkumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Pankaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
