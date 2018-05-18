@@ -1,0 +1,10 @@
+C:\Test_Misc\ASPNET_AngJS\Angular\angular2\vega\bin\Debug\netcoreapp2.0\vega.deps.json
+C:\Test_Misc\ASPNET_AngJS\Angular\angular2\vega\bin\Debug\netcoreapp2.0\vega.runtimeconfig.json
+C:\Test_Misc\ASPNET_AngJS\Angular\angular2\vega\bin\Debug\netcoreapp2.0\vega.runtimeconfig.dev.json
+C:\Test_Misc\ASPNET_AngJS\Angular\angular2\vega\bin\Debug\netcoreapp2.0\vega.dll
+C:\Test_Misc\ASPNET_AngJS\Angular\angular2\vega\bin\Debug\netcoreapp2.0\vega.pdb
+C:\Test_Misc\ASPNET_AngJS\Angular\angular2\vega\obj\Debug\netcoreapp2.0\vega.csproj.CoreCompileInputs.cache
+C:\Test_Misc\ASPNET_AngJS\Angular\angular2\vega\obj\Debug\netcoreapp2.0\vega.AssemblyInfoInputs.cache
+C:\Test_Misc\ASPNET_AngJS\Angular\angular2\vega\obj\Debug\netcoreapp2.0\vega.AssemblyInfo.cs
+C:\Test_Misc\ASPNET_AngJS\Angular\angular2\vega\obj\Debug\netcoreapp2.0\vega.dll
+C:\Test_Misc\ASPNET_AngJS\Angular\angular2\vega\obj\Debug\netcoreapp2.0\vega.pdb
