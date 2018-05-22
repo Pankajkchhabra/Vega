@@ -12,7 +12,7 @@ using Microsoft.Extensions.Logging.Console;
 using Microsoft.Extensions.Options;
 using vega.Persistence;
 using Microsoft.EntityFrameworkCore;
-
+using AutoMapper;
 
 namespace vega
 {
@@ -28,6 +28,7 @@ namespace vega
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddAutoMapper();
             // services.AddDbContext<VegaDbContext>(Options => Options.UseSqlServer(Configuration.GetConnectionString("Default")));
             services.AddDbContext<VegaDbContext>(Options => Options.UseSqlServer("Data Source=localhost; Initial Catalog=vega; Integrated Security=SSPI;"));
             // services.AddDbContext<VegaDbContext>(Options => Options.UseSqlServer("Data Source=PK6539\\SQL2014; Initial Catalog=vega; Integrated Security=SSPI;"));
